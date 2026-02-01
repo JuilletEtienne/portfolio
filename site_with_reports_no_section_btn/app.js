@@ -2,7 +2,7 @@
 // === Rapports de projets à télécharger ===
 const REPORTS_MAP = {
   // Projets déjà présents
-  'SAE21': 'SA#U00c9 21_rapport_JUILLET_OLIVER.pdf',
+  'SAE21': '21_rapport_JUILLET_OLIVER.pdf',
   'SAE12': 'JUILLET_Etienne_sae12_compte-rendu2-4.pdf',
   'SAE13': 'Juillet_Etienne-SAE13-Rapport.pdf',
   'SAE23': 'Thales05_SAE15_Rapport (6).pdf',
